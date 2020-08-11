@@ -2,6 +2,7 @@
   "name": "@danfma/reflection-info-ts-transform",
   "version": "0.1.0",
   "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "license": "MIT",
   "dependencies": {
     "typescript": "^3.9.7"
